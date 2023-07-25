@@ -1,0 +1,1 @@
+{"nodes": [{"id": "0", "type": "val", "name": "length", "val": "4"}, {"id": "4", "type": "stmt", "val": "return teal", "subgraph": null}, {"id": "6", "type": "val", "name": "out", "val": "8"}], "edges": [["4", "6"]]}
